@@ -1,0 +1,3 @@
+# gizemesor
+
+PeterAnswers sitesinin türkçesi
